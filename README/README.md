@@ -37,7 +37,7 @@ pip install tensorflow matplotlib numpy pillow
 
 ### 1. Importar librerías
 
-![This is an alt text.](C:\Users\Trans\Downloads\CNN\README\Librerias "This is a sample image.")
+![This is an alt text.](C:\Users\Trans\Downloads\CNN\README\Librerias.png "This is a sample image.")
 ```import tensorflow as tf
 from tensorflow.keras import layers, models
 import matplotlib.pyplot as plt
